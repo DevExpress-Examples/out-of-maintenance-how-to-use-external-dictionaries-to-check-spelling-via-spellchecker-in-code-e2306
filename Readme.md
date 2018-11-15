@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/GreekSpell/MainPage.xaml) (VB: [MainPage.xaml](./VB/GreekSpell/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/GreekSpell/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/GreekSpell/MainPage.xaml))
+<!-- default file list end -->
 # How to use external dictionaries to check spelling (via SpellChecker() in code)
 
 
